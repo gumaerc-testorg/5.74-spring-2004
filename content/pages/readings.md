@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cbb879c9-1f8b-1d01-d4e9-afbbec06532f
 ---
@@ -413,7 +416,7 @@ Blum, K. Sections 9.3-4 in _Density Matrix Theory and Applications._ New York, N
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Complex Energy Heff: Nondegenerate Perturbation Theory  
+Complex Energy H{{< sup "eff" >}}: Nondegenerate Perturbation Theory  
  
 {{< tdclose >}}
 {{< tdopen >}}
@@ -444,7 +447,7 @@ Blum, K. Section 9.3 in _Density Matrix Theory and Applications._ New York, NY: 
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a+, N  
+Polyads, a, a{{< sup "+" >}}, N  
  
 {{< tdclose >}}
 {{< tdopen >}}
@@ -511,7 +514,7 @@ Blum, K. Section 9.4.12.5 in _Density Matrix Theory and Applications._ New York,
 31
 {{< tdclose >}}
 {{< tdopen >}}
-From Quantum Mechanical Heff to Classical Mechanical Heff  
+From Quantum Mechanical H{{< sup "eff" >}} to Classical Mechanical H{{< sup "eff" >}}  
  
 {{< tdclose >}}
 {{< tdopen >}}

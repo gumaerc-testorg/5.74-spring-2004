@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b674992b-2c20-f098-062f-edbb6f201368
 ---
@@ -327,7 +330,7 @@ Prof. Robert Field
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Complex Energy Heff: Nondegenerate Perturbation Theory ([PDF]({{< baseurl >}}/resources/11_lecnotes_rwf))
+Complex Energy H{{< sup "eff" >}}: Nondegenerate Perturbation Theory ([PDF]({{< baseurl >}}/resources/11_lecnotes_rwf))
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Robert Field
@@ -357,7 +360,7 @@ Prof. Robert Field
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a+, N ([PDF]({{< baseurl >}}/resources/13_lecnotes_rwf))
+Polyads, a, a{{< sup "+" >}}, N ([PDF]({{< baseurl >}}/resources/13_lecnotes_rwf))
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Robert Field
@@ -423,7 +426,7 @@ Prof. Robert Field
 31
 {{< tdclose >}}
 {{< tdopen >}}
-From Quantum Mechanical Heff to Classical Mechanical Heff ([PDF]({{< baseurl >}}/resources/18_lecnotes_rwf))
+From Quantum Mechanical H{{< sup "eff" >}} to Classical Mechanical H{{< sup "eff" >}} ([PDF]({{< baseurl >}}/resources/18_lecnotes_rwf))
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Robert Field
