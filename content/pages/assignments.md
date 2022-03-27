@@ -11,7 +11,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3)), Auxiliary File: freq.dat ([DAT](/courses/chemistry/5-74-introductory-quantum-mechanics-ii-spring-2004/assignments/freq.dat))
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3)), Auxiliary File: freq.dat ([DAT]({{< baseurl >}}/resources/freq))
 
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 

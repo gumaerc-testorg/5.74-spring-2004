@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b674992b-2c20-f098-062f-edbb6f201368
 resourcetype: Document
 title: 01_lecnotes_rwf.pdf
 uid: 1d096a18-9dad-a838-fc2e-2ecbf9a3f4e7

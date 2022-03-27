@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b674992b-2c20-f098-062f-edbb6f201368
 resourcetype: Document
 title: 8sup.pdf
 uid: 1b79b762-6859-e757-52c1-0aa17a862440
