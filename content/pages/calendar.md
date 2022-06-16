@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: The calendar section lists the session topics covered in the course along
+  with the paper due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: e688117d-9bfc-19cb-ad32-42e1e3a29200
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -361,7 +367,7 @@ Strong and Weak Coupling Limits
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a{{< sup "+" >}}, N
+Polyads, a, a{{< sup "\+" >}}, N
 {{< tdclose >}}
 {{< tdopen >}}
 

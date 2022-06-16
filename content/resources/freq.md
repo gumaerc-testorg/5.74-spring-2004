@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is an auxililary file for problem set 3.
-file: /media/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/8411a009acf103be744ec5946214013e_freq.dat
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/8411a009acf103be744ec5946214013e_freq.dat
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: freq.dat
 uid: 8411a009-acf1-03be-744e-c5946214013e
 ---
+This resource is an auxililary file for problem set 3.
+

@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section lists the course readings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: cbb879c9-1f8b-1d01-d4e9-afbbec06532f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 [Recommended texts, general references, and other references](#texts) are listed below the table.
@@ -447,7 +452,7 @@ Blum, K. Section 9.3 in _Density Matrix Theory and Applications._ New York, NY: 
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a{{< sup "+" >}}, N  
+Polyads, a, a{{< sup "\+" >}}, N  
  
 {{< tdclose >}}
 {{< tdopen >}}
