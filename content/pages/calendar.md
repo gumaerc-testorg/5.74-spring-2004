@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The calendar section lists the session topics covered in the course along
+  with the paper due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e688117d-9bfc-19cb-ad32-42e1e3a29200
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -329,7 +337,7 @@ Supplement: Stationary Phase for Vibration-Electronic Spectra and Heller's Fract
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Complex Energy Heff: Nondegenerate Perturbation Theory
+Complex Energy H{{< sup "eff" >}}: Nondegenerate Perturbation Theory
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 7 due
@@ -359,7 +367,7 @@ Strong and Weak Coupling Limits
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polyads, a, a+, N
+Polyads, a, a{{< sup "\+" >}}, N
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -425,7 +433,7 @@ Normal - Local Modes: 6-Parameter Models
 31
 {{< tdclose >}}
 {{< tdopen >}}
-From Quantum Mechanical Heff to Classical Mechanical Heff
+From Quantum Mechanical H{{< sup "eff" >}} to Classical Mechanical H{{< sup "eff" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 

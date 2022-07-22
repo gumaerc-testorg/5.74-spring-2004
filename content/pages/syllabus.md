@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The syllabus contains the reading lists, details on assignments, exams,
+  and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b5f5cae7-a411-aa7e-d532-10dc730d44cd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

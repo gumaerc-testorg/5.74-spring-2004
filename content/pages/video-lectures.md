@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: A lecture series on photofragmentation dynamics in diatomic molecules.
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 57a53419-b621-e1e9-695b-60fe7044b2f6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Breakdown of the Born-Oppenheimer Approximation in Diatomic Molecules
@@ -31,7 +39,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Lecture 1: Introduction to the Spectroscopic Effective Hamiltonian]({{< baseurl >}}/resources/lecture-1)
+{{% resource_link eb16274d-34c2-301e-3c48-9c0fe1b0eef1 "Lecture 1: Introduction to the Spectroscopic Effective Hamiltonian" %}}
 
 _Description_
 
@@ -48,7 +56,7 @@ The Born-Oppenheimer approximation and matrix elements of terms in the effective
 {{< tdopen >}}
 
 
-[Lecture 2: Spectroscopic Pertubations, Predissociation, and Autoionization]({{< baseurl >}}/resources/lecture-2)
+{{% resource_link d6e1d67e-a759-eab9-0899-aceff15f650c "Lecture 2: Spectroscopic Pertubations, Predissociation, and Autoionization" %}}
 
 _Description_
 
@@ -65,7 +73,7 @@ Introduction to dynamical processes.
 {{< tdopen >}}
 
 
-[Lecture 3: Semiclassical Methods for Calculating Vibrational Overlap Integrals]({{< baseurl >}}/resources/lecture-3)
+{{% resource_link 31d7fb66-e75d-1fdb-3ba4-00708e914049 "Lecture 3: Semiclassical Methods for Calculating Vibrational Overlap Integrals" %}}
 
 _Description_
 
@@ -82,7 +90,7 @@ All coupling processes are mediated by vibrational overlap integrals, which are 
 {{< tdopen >}}
 
 
-[Lecture 4: Wavepackets and Landau-Zener]({{< baseurl >}}/resources/lecture-4)
+{{% resource_link 13b1ee48-d189-6120-81a6-418bf00b04ba "Lecture 4: Wavepackets and Landau-Zener" %}}
 
 _Description_
 
