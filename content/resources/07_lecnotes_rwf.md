@@ -6,6 +6,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/2d6818d7f16889
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This lecture talks about tools to examine various excitation/detection experimental schemes.
-

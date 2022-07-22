@@ -5,6 +5,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/9cc352f47ff979
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains six questions to test students understanding.
-

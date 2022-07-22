@@ -7,6 +7,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/d86b4179726b2e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource talks about two cases. Case (1) shows that rsp is small and Case (2) implies that rsp can be very large. It also inludes three cases on Heller?s Fractionation Index.
-

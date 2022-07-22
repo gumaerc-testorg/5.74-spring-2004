@@ -8,6 +8,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/1d096a189dada8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource talks about 3-j for coupled - uncoupled, transformation of operators as well as basis states 6-j, 9-j for replacement of one intermediate angular momentum magnitude by another patterns ? limiting cases ? simple dynamics, minimum number of control parameters needed to fit or predict the I(?) or I(t).
-

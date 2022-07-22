@@ -5,6 +5,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/e5bc59e7a075c1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

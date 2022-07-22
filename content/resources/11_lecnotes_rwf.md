@@ -5,6 +5,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/15d71268ef42a7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This lecture note discusses sharp bright state and broad doorway state.
-

@@ -5,6 +5,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/1b79b7626859e7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supplement on Review of Electromagnetic Fields.
-

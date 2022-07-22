@@ -6,6 +6,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/c712f32b11fb37
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This lecture note discusses causal dynamics based on Heisenberg equation of motion rather than (A)t = Trace(A(t)).
-

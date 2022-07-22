@@ -9,6 +9,7 @@ file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/48ca9fe01115ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource explains the Transformation of HeffLocal-HeffNormal (why?), gives a good description of the pluck (e.g. overtone vs. SEP), antagonism between term that lifts degeneracy in polyad vs. term that has off-diagonal intrapolyad matrix elements, 2-level illustration, 3 parameter model ? some inconsistencies, eff6 parameter model Heff Local-Heff Normal.
-
