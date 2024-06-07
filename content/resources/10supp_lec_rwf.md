@@ -4,6 +4,7 @@ description: This resource talks about two cases. Case (1) shows that rsp is sma
   and Case (2) implies that rsp can be very large. It also inludes three cases on
   Heller?s Fractionation Index.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/d86b4179726b2e28c4c696dc0056359e_10supp_lec_rwf.pdf
+file_size: 433530
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
