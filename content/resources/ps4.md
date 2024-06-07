@@ -5,6 +5,7 @@ description: 'This resource contains four questions to test students understandi
   Displaced Harmonic Oscillator Model, and Displaced Harmonic Oscillator Model at
   Finite Temperature.'
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/544af2b71d08cdedaf67f20248658fb7_ps4.pdf
+file_size: 138293
 file_type: application/pdf
 learning_resource_types:
 - Assignments

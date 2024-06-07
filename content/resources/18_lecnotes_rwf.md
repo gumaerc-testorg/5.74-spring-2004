@@ -6,6 +6,7 @@ description: This resource explains the Transformation of HeffLocal-HeffNormal (
   matrix elements, 2-level illustration, 3 parameter model ? some inconsistencies,
   eff6 parameter model Heff Local-Heff Normal.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/48ca9fe01115ad8683e9a39b7bb33faa_18_lecnotes_rwf.pdf
+file_size: 182396
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource talks about Wigner Eckart Theorem.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/9954b2356fe7b001caa5a6c29918a76f_04_lecnotes_rwf.pdf
+file_size: 180167
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: This resource talks about 3-j for coupled - uncoupled, transformati
   angular momentum magnitude by another patterns ? limiting cases ? simple dynamics,
   minimum number of control parameters needed to fit or predict the I(?) or I(t).
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/1d096a189dada838fc2e2ecbf9a3f4e7_01_lecnotes_rwf.pdf
+file_size: 203946
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

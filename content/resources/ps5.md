@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains two questions to test students understanding
   on: Photon Plucks, Atomic Hyperfine Structure.'
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/b3a676b1eadee35fd56b6c58d8f6e91f_ps5.pdf
+file_size: 85378
 file_type: application/pdf
 learning_resource_types:
 - Assignments

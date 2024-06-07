@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains four questions to test students understanding.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/2dc0003b28b736617a1196ba032bec25_ps6.pdf
+file_size: 47032
 file_type: application/pdf
 learning_resource_types:
 - Assignments

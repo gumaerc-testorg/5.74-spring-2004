@@ -5,6 +5,7 @@ description: 'This lecture note contains information on  classical mechanics: 2 
   Local Morse Oscillators, eff . Antagonism. Local vs. Normal.HLocal spontaneous symmetry
   - breaking.'
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/30314f1a77e871547d7610e81f25c4d4_17_lecnotes_rwf.pdf
+file_size: 209226
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
