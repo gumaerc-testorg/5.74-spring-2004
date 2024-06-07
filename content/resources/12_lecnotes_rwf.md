@@ -4,6 +4,7 @@ description: This lecture note discusses biorthogonality completeness, 2 ? 2 com
   H, limiting cases strong & weak coupling limits,doorway state ?dissolves in bath?
   and quantum beats.
 file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/8b4b3470ddf2932481121a836f0bf47b_12_lecnotes_rwf.pdf
+file_size: 305230
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
