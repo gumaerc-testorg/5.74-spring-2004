@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource talks about the two-level problem again.
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/d5e67e4d563ef722b5870f295b7e52b8_15_lecnotes_rwf.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/d5e67e4d563ef722b5870f295b7e52b8_15_lecnotes_rwf.pdf
 file_size: 158571
 file_type: application/pdf
 learning_resource_types:

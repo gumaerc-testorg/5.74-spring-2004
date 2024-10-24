@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about overtone spectroscopy and classical treatment
   of 2 coupled harmonic oscillations.
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/b3f1fc4219eef4cf574f14414fd838ac_16_lecnotes_rwf.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/b3f1fc4219eef4cf574f14414fd838ac_16_lecnotes_rwf.pdf
 file_size: 108844
 file_type: application/pdf
 learning_resource_types:
