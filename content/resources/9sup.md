@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/e5bc59e7a075c18bc2267c699cf68081_9sup.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/e5bc59e7a075c18bc2267c699cf68081_9sup.pdf
 file_size: 173379
 file_type: application/pdf
 learning_resource_types:

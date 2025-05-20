@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is an auxililary file for problem set 3.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/8411a009acf103be744ec5946214013e_freq.dat
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/8411a009acf103be744ec5946214013e_freq.dat
 file_size: 150000
 file_type: text/plain
 learning_resource_types:
