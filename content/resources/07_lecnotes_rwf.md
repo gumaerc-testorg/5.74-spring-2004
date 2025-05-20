@@ -2,7 +2,7 @@
 content_type: resource
 description: This lecture talks about tools to examine various excitation/detection
   experimental schemes.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/2d6818d7f16889ea305a33720bcf3c67_07_lecnotes_rwf.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/2d6818d7f16889ea305a33720bcf3c67_07_lecnotes_rwf.pdf
 file_size: 57508
 file_type: application/pdf
 learning_resource_types:

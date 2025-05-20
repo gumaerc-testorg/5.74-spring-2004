@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The lecture contains details on classes of pluck classes - of wavepacket.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/cdd935b440c0b5cb68a839025b0937c2_09_lecnotes_rwf.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/cdd935b440c0b5cb68a839025b0937c2_09_lecnotes_rwf.pdf
 file_size: 103845
 file_type: application/pdf
 learning_resource_types:

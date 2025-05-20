@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource talks about How to get a glimpse of mechanism: cause and
   effect?'
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/4d0abe7e9ea266d2c976cada848a873c_08_lecnotes_rwf.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/4d0abe7e9ea266d2c976cada848a873c_08_lecnotes_rwf.pdf
 file_size: 148522
 file_type: application/pdf
 learning_resource_types:

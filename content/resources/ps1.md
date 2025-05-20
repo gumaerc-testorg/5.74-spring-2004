@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains six questions to test students understanding.
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/9cc352f47ff979c1f6c327a54245305d_ps1.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/9cc352f47ff979c1f6c327a54245305d_ps1.pdf
 file_size: 103684
 file_type: application/pdf
 learning_resource_types:
