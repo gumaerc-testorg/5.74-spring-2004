@@ -4,7 +4,7 @@ description: 'This lecture note contains information on  classical mechanics: 2 
   : 1 coupled local harmonic oscillators, QM: Morse oscillator 2,anharmonically Coupled
   Local Morse Oscillators, eff . Antagonism. Local vs. Normal.HLocal spontaneous symmetry
   - breaking.'
-file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/30314f1a77e871547d7610e81f25c4d4_17_lecnotes_rwf.pdf
+file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/30314f1a77e871547d7610e81f25c4d4_17_lecnotes_rwf.pdf
 file_size: 209226
 file_type: application/pdf
 learning_resource_types:
