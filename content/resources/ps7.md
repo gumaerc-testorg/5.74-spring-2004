@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains two questions to test students understanding
   on: One-Color Pump-Probe Experiment, Anharmonic Coupling'
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/95c651464f87e153d411f238301f6dc4_ps7.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/95c651464f87e153d411f238301f6dc4_ps7.pdf
 file_size: 70740
 file_type: application/pdf
 learning_resource_types:

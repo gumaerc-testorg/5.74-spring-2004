@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses experimental schemes.
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/8783d70b6490ecf6842c64eb82198d48_06_lecnotes_rwf.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/8783d70b6490ecf6842c64eb82198d48_06_lecnotes_rwf.pdf
 file_size: 72985
 file_type: application/pdf
 learning_resource_types:
