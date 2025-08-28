@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains three questions to test students understanding
   on: Vibrational Excitation by a Shock Wave and Electronic excitation by electron
   scattering.'
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/aa897d39792986ef9fa0aaef9a357550_ps2.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/aa897d39792986ef9fa0aaef9a357550_ps2.pdf
 file_size: 166789
 file_type: application/pdf
 learning_resource_types:
