@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement on Review of Electromagnetic Fields.
-file: /courses/5-74-introductory-quantum-mechanics-ii-spring-2004/1b79b7626859e75752c10aa17a862440_8sup.pdf
+file: /ol-ocw-studio-app/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/1b79b7626859e75752c10aa17a862440_8sup.pdf
 file_size: 131843
 file_type: application/pdf
 learning_resource_types:
